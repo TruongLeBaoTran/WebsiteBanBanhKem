@@ -1,5 +1,5 @@
 ﻿# WebsiteBanBanhKem
-### Công nghệ sử dụng: PHP
+### Công nghệ sử dụng: PHP thuần, HTML, CSS, Bootstrap, mySQL
 ### Thực hiện: Cá nhân
 ## Thiết kế giao diện: sử dụng HTML kết hợp với Bootstrap
 ## Các chức năng trang ADMIN:
